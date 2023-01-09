@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "network_entropy"
+  site-url: "https://megaduks.github.io/network_entropy"
+  description: "Package to compute various network energies and entropies"
+  repo-branch: main
+  repo-url: "https://github.com/megaduks/network_entropy"
